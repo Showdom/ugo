@@ -24,5 +24,5 @@ setup(
     license='MIT License',
     author='Showdom',
     author_email='1063951161@qq.com',
-    url='https://github.com/linpingta',
+    url='https://github.com/Showdom/ugo',
 )
